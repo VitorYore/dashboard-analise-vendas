@@ -306,7 +306,7 @@ dashboard/Dashboard_vendas.pbix
 
 com o **Microsoft Power BI Desktop**.
 
-> Como a base original não está disponível no repositório, a atualização completa da fonte de dados pode exigir uma base compatível ou a configuração da origem de dados utilizada no projeto.
+https://app.powerbi.com/view?r=eyJrIjoiZmE3MDIyODMtMDUwNS00ZmRjLWI1ZjctYzIzNzcyMjgzZDJlIiwidCI6IjkwOTc0N2Q1LWJhM2MtNGQ0YS05NjI2LWMxOWI5YjhhZmY5YSJ9
 
 ---
 
