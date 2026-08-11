@@ -312,21 +312,24 @@ com o **Microsoft Power BI Desktop**.
 
 # 📷 Dashboard
 
-As imagens das páginas do dashboard podem ser adicionadas posteriormente nesta seção.
+As imagens das páginas do dashboard.
 
 ```
 # 📊 Portfólio de Análise de Dados
-
 <img width="1442" height="811" alt="Capa" src="https://github.com/user-attachments/assets/5e44ed0f-3912-49ec-9099-9804d46beef0" />
+
 
 ## 📈 Visão Geral do Dashboard
 <img width="1445" height="809" alt="VisaoGeral" src="https://github.com/user-attachments/assets/c6193ab9-b7cf-4420-9ffb-f7e0dc8d4825" />
 
+
 ## 👥 Análise de Clientes
 <img width="1442" height="808" alt="Clientes" src="https://github.com/user-attachments/assets/7c2d24ae-6c02-4241-869e-f08f75c8c456" />
 
+
 ## 💳 Fluxo de Pagamentos
 <img width="1442" height="809" alt="Pagamentos" src="https://github.com/user-attachments/assets/3100067a-f278-4cab-8b69-fff6b7f78d7c" />
+
 
 ## 🚀 Desempenho
 <img width="1444" height="809" alt="Desempenho" src="https://github.com/user-attachments/assets/cf83d763-86a0-40f3-8cb8-f39799229739" />
