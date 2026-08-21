@@ -20,3 +20,6 @@ Thumbs.db
 # Dados brutos
 data/raw/*
 !data/raw/.gitkeep
+
+# Credenciais e variáveis de ambiente
+.env
